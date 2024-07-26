@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-provisioner:v2.2.2
+FROM longhornio/csi-provisioner:v3.6.4
